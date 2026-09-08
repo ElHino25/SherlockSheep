@@ -4676,6 +4676,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4026167085268298928, guid: 3edcf70af3303894482eb673a57b1198, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 48d04139b3ec9974f8d28a59a873e67b, type: 2}
     - target: {fileID: 4026167085268298930, guid: 3edcf70af3303894482eb673a57b1198, type: 3}
       propertyPath: m_Name
       value: ZiegenFried
