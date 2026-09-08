@@ -224,7 +224,7 @@ public class SheepController : MonoBehaviour
         return false;
     }
 
-    private void HandleAnimation()
+    protected void HandleAnimation()
     {
         animator.SetBool("Eat", isCollecting);
         
